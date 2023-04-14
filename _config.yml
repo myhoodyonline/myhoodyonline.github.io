@@ -3,6 +3,8 @@ makecode:
   platform: arcade
   home_url: https://arcade.makecode.com/
 theme: jekyll-theme-slate
+title: myhoodyonline's homepage
+description: Bookmark this to keep an eye on my project updates!
 include:
   - assets
   - README.md
